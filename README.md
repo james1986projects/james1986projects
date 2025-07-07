@@ -9,7 +9,7 @@ Currently focused on AWS, Terraform, and building secure, scalable web applicati
 - **Languages**: Python (Flask), Bash
 
 ## 🚀 Featured Project
-- [Secure AWS Web App](https://github.com/james1986projects/secure-aws-webapp)  
+- [Secure AWS Web App](https://github.com/james1986projects/DevOpsAWS)  
   🛡️ Full-stack deployment of a containerized Flask application using ECS Fargate, ALB, and Terraform.  
   🔁 CI/CD planned | ☁️ CloudWatch logging enabled | 📦 Image hosted in Amazon ECR
 
