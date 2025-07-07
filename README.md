@@ -14,7 +14,7 @@ Currently focused on AWS, Terraform, and building secure, scalable web applicati
   🔁 CI/CD planned | ☁️ CloudWatch logging enabled | 📦 Image hosted in Amazon ECR
 
 ## 📚 Certifications
-- ✅ CompTIA Security+ (SY0-701)
+- ✅ CompTIA Security+ (SY0-701) https://www.credly.com/badges/576ca038-5cf8-40b7-b2ab-ac268f6d1720/public_url <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="576ca038-5cf8-40b7-b2ab-ac268f6d1720" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ## 📫 Contact
