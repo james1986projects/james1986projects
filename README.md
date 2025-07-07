@@ -14,8 +14,8 @@ Currently focused on AWS, Terraform, and building secure, scalable web applicati
   🔁 CI/CD planned | ☁️ CloudWatch logging enabled | 📦 Image hosted in Amazon ECR
 
 ## 📚 Certifications
-- ✅ CompTIA Security+ (SY0-701) (https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/comptia-security.png)](https://www.credly.com/badges/576ca038-5cf8-40b7-b2ab-ac268f6d1720/public_url)
-- ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
+- ✅ CompTIA Security+ (SY0-701) https://www.credly.com/badges/576ca038-5cf8-40b7-b2ab-ac268f6d1720/public_url
+- ✅ AWS Certified Solutions Architect – Associate (SAA-C03) https://www.credly.com/badges/b9845901-ce03-4bbd-bee6-3028111e9d60/public_url
 
 ## 📫 Contact
 - 📧 [james_peckitt1986@hotmail.com](mailto:james_peckitt1986@hotmail.com)
